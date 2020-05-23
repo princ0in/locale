@@ -42,8 +42,8 @@
     "whitelisting-explanation": "Vous pouvez suelement retirer vos fonds vers vos adresses authorisées avec cette clée API. Vous pouvez ajouter et supprimer les adresses authorisées quand vous le voulez une fois la clée générée.",
     "token-type": {
       "access": "Accés",
-      "kyc": "Vérification de votre l'identitée",
-      "apitrade": "API trading",
+      "kyc": "Vérification de votre identitée",
+      "apitrade": "API de trading",
       "twofa": "2FA"
     },
     "delete-all-tokens": {
@@ -52,13 +52,13 @@
       "cancel-button-label": "Annuler"
     },
     "delete-token": {
-      "body": "Are you sure you want to revoke ‘<0></0>’?",
-      "confirm-button-label": "Revoke forever",
+      "body": "Etes vous sûr de vouloir révoquer ‘<0></0>’?",
+      "confirm-button-label": "Révoquer",
       "cancel-button-label": "Annuler"
     },
     "edit-whitelisted": {
       "title": "Address whitelist for {{name}}",
-      "add": "Add another",
+      "add": "Ajouter une nouvelle adresse",
       "save-and-close": "Sauvegarder les changements et fermer",
       "continue": "Continuer"
     },
